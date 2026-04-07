@@ -5,30 +5,10 @@
 
 # **ObservableUniverse**
 
-_**Particle System in Unity 6 URP, Observable Universe**_
+**ObservableUniverse** es un proyecto en Unity enfocado en experimentar con efectos visuales (VFX), iluminación y composición artística inspirada en la estética de escalas físicas extremas en este caso es una representación del universo observable compuesto de VFX Graph y Shadergraph.
 
+## Puesta en marcha
+1. Abre el proyecto con la versión de Unity indicada en `ProjectSettings/ProjectVersion.txt`.
+2. Carga la escena principal en `Assets/3-Scenes/Main.unity`.
+3. Ejecuta el proyecto desde el editor para validar materiales, luces y VFX.
 
-</header>
-   
-<footer>
-   
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
-
-</footer>
