@@ -9,6 +9,6 @@
 
 ## Puesta en marcha
 1. Abre el proyecto con la versión de Unity indicada en `ProjectSettings/ProjectVersion.txt`.
-2. Carga la escena principal en `Assets/3-Scenes/Main.unity`.
+2. Carga la escena principal en `Assets/3-Scenes/ObservableUniverse.unity`.
 3. Ejecuta el proyecto desde el editor para validar materiales, luces y VFX.
 
